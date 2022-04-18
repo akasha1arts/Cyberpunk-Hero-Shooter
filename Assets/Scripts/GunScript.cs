@@ -6,12 +6,18 @@ public class GunScript : MonoBehaviour
     public float range = 100f;
     public float bulletForce = 30f;
     public float fireRate = 5f;
-
+    public AudioSource gunSound;
 
     public Camera fpsCamera;
     public ParticleSystem gunFlash;
 
     private float nextTimeToFire = 0f;
+
+    private void Awake()
+    {
+        gunSound = GetComponent<AudioSource>();
+    }
+
 
     // Update is called once per frame
     void Update()
@@ -20,6 +26,7 @@ public class GunScript : MonoBehaviour
         {
             nextTimeToFire = Time.time + 1f / fireRate;
             Shoot();
+            gunSound.Play();
         }
     }
 

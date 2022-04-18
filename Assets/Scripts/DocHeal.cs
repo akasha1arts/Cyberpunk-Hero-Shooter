@@ -9,7 +9,7 @@ public class DocHeal : MonoBehaviour
 
     public float healAmount = 50f;
 
-    public float range = 15f;
+    public float range = 20f;
 
     public float healCooldown = 8f;
 

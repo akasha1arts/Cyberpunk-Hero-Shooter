@@ -1,0 +1,1673 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.19f1 (68f137dc9bbe) revision 6877495'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19044.1645; Version 2009; 64bit' Language: 'en' Physical Memory: 32611 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Users\akeem\OneDrive\Documents\2020.3.19f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/akeem/OneDrive/Documents/Portfolio/Shooter3
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57812
+Successfully changed project path to: C:/Users/akeem/OneDrive/Documents/Portfolio/Shooter3
+C:/Users/akeem/OneDrive/Documents/Portfolio/Shooter3
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 51.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.19f1 (68f137dc9bbe)
+[Subsystems] Discovering subsystems at path C:/Users/akeem/OneDrive/Documents/2020.3.19f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/akeem/OneDrive/Documents/Portfolio/Shooter3/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2191)
+    Vendor:   
+    VRAM:     5991 MB
+    Driver:   30.0.15.1215
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Initialize mono
+Mono path[0] = 'C:/Users/akeem/OneDrive/Documents/2020.3.19f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Users/akeem/OneDrive/Documents/2020.3.19f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Users/akeem/OneDrive/Documents/2020.3.19f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56716
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Users/akeem/OneDrive/Documents/2020.3.19f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Users/akeem/OneDrive/Documents/2020.3.19f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002605 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 49.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.539 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2540ms)
+		BeginReloadAssembly (53ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (420ms)
+			LoadAssemblies (51ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (143ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (173ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (49ms)
+				BeforeProcessingInitializeOnLoad (17ms)
+				ProcessInitializeOnLoadAttributes (74ms)
+				ProcessInitializeOnLoadMethodAttributes (27ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003459 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.004 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1005ms)
+		BeginReloadAssembly (137ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (17ms)
+		EndReloadAssembly (810ms)
+			LoadAssemblies (81ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (250ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (49ms)
+			SetupLoadedEditorAssemblies (342ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (91ms)
+				ProcessInitializeOnLoadAttributes (233ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 1.04 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1815 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.7 MB.
+System memory in use after: 186.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2271.
+Total: 3.639500 ms (FindLiveObjects: 0.199000 ms CreateObjectMapping: 0.076700 ms MarkObjects: 3.257700 ms  DeleteObjects: 0.104800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions/WFXMR_ExplosiveSmokeGround.prefab
+  artifactKey: Guid(808e73d863fcde3499fd5301563ffd3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions/WFXMR_ExplosiveSmokeGround.prefab using Guid(808e73d863fcde3499fd5301563ffd3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dff911382cbe759d507d5d11b13e3fa9') in 0.158508 seconds 
+  Import took 0.163133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions/WFXMR_Explosion Small.prefab
+  artifactKey: Guid(a57a6829db3568c4d9bdc37e9e63c017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions/WFXMR_Explosion Small.prefab using Guid(a57a6829db3568c4d9bdc37e9e63c017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b44919b45b0c2cf598dd5557c18846b5') in 0.100571 seconds 
+  Import took 0.105846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions/WFXMR_Nuke.prefab
+  artifactKey: Guid(4bf22a1d8d9e7724b9af67921436851d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions/WFXMR_Nuke.prefab using Guid(4bf22a1d8d9e7724b9af67921436851d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aab483220676e5b801c49ba49fc383e7') in 0.017281 seconds 
+  Import took 0.020663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions/WFXMR_ExplosiveSmoke Small.prefab
+  artifactKey: Guid(42f257b24c959a44794a35d032e9da12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions/WFXMR_ExplosiveSmoke Small.prefab using Guid(42f257b24c959a44794a35d032e9da12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f0a9b4bba6ba65d664a61f791db9be1') in 0.018055 seconds 
+  Import took 0.021186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions/WFXMR_Explosion.prefab
+  artifactKey: Guid(084c6a87873fd6e4da7978a01aa18b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions/WFXMR_Explosion.prefab using Guid(084c6a87873fd6e4da7978a01aa18b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34e2bcc5d29a4cca4ff7ee7d610b1761') in 0.021892 seconds 
+  Import took 0.025779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions/WFXMR_ExplosiveSmoke.prefab
+  artifactKey: Guid(e4704660d196fac40802911e12ac76f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions/WFXMR_ExplosiveSmoke.prefab using Guid(e4704660d196fac40802911e12ac76f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e778f56827bbdd438509f032c7177fd') in 0.019054 seconds 
+  Import took 0.022281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions/WFXMR_Explosion Simple.prefab
+  artifactKey: Guid(8f611da60097c85438a2947021f045cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions/WFXMR_Explosion Simple.prefab using Guid(8f611da60097c85438a2947021f045cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63a1f3dcd5e2a38380089dbb76e5be26') in 0.030794 seconds 
+  Import took 0.034227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/JMO Assets/WarFX/_Effects (Mobile)
+  artifactKey: Guid(1ff1506253a4e704e923c2233742faf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/_Effects (Mobile) using Guid(1ff1506253a4e704e923c2233742faf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf000479c3bb850263c695b6198bfdca') in 0.006925 seconds 
+  Import took 0.011329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions/WFXMR_Explosion StarSmoke.prefab
+  artifactKey: Guid(28ccd38a41e256a4e8fea96f5a8d039d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions/WFXMR_Explosion StarSmoke.prefab using Guid(28ccd38a41e256a4e8fea96f5a8d039d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd715966f368a3660e1167ab03f9c60f7') in 0.042397 seconds 
+  Import took 0.046467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions/WFXMR_ExplosiveSmokeGround Small.prefab
+  artifactKey: Guid(a2b9ce854d0a5004cba27ab45cbfe205) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions/WFXMR_ExplosiveSmokeGround Small.prefab using Guid(a2b9ce854d0a5004cba27ab45cbfe205) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed20fb0f53cb2b5ada488afbbb063f9c') in 0.014767 seconds 
+  Import took 0.018394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions/WFXMR_Explosion LandMine.prefab
+  artifactKey: Guid(872363974360b1540b92d8d9e0453afa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions/WFXMR_Explosion LandMine.prefab using Guid(872363974360b1540b92d8d9e0453afa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ec1e15f59829f33998315bd003978ae') in 0.017697 seconds 
+  Import took 0.021656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions
+  artifactKey: Guid(2d0b91ad70efda443a374f232847e8b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions using Guid(2d0b91ad70efda443a374f232847e8b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9242892ef7293d79ae529e1fae2c9a56') in 0.005311 seconds 
+  Import took 0.008250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.416347 seconds.
+  path: Assets/Archanor
+  artifactKey: Guid(a4d1640f16bb8e040a9bf98a7cd00e91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor using Guid(a4d1640f16bb8e040a9bf98a7cd00e91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a7481d0e844dcc36d674343d935c952') in 0.006362 seconds 
+  Import took 0.009105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.882589 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal
+  artifactKey: Guid(3228e4edce09b124f83dbb63abf735c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal using Guid(3228e4edce09b124f83dbb63abf735c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca78ca73fb01bc76bf15e71c0c9f476d') in 0.005104 seconds 
+  Import took 0.008078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.083841 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/InteractiveDemo
+  artifactKey: Guid(18ea8a16e88b19349a5ddd3e1d470c33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/InteractiveDemo using Guid(18ea8a16e88b19349a5ddd3e1d470c33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94341591f2247df2b3f8ed094672cf89') in 0.005552 seconds 
+  Import took 0.008374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.501028 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/InteractiveDemo/Demo Scenes
+  artifactKey: Guid(f11b652432cf110479697e56fd0375cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/InteractiveDemo/Demo Scenes using Guid(f11b652432cf110479697e56fd0375cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0375479e2f3e3457f56bbc605e51711d') in 0.005309 seconds 
+  Import took 0.008271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.695501 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/InteractiveDemo/Demo Scenes/scifi_buff.unity
+  artifactKey: Guid(fce79edd9eef4c94ca9f6638722a8986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/InteractiveDemo/Demo Scenes/scifi_buff.unity using Guid(fce79edd9eef4c94ca9f6638722a8986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5782100ba222b64298c42588de6e8d76') in 0.006259 seconds 
+  Import took 0.009429 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003971 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.973 seconds
+Domain Reload Profiling:
+	ReloadAssembly (973ms)
+		BeginReloadAssembly (121ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (786ms)
+			LoadAssemblies (82ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (259ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (42ms)
+			SetupLoadedEditorAssemblies (309ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (84ms)
+				ProcessInitializeOnLoadAttributes (208ms)
+				ProcessInitializeOnLoadMethodAttributes (3ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1774 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.5 MB.
+System memory in use after: 186.6 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2282.
+Total: 2.923300 ms (FindLiveObjects: 0.159500 ms CreateObjectMapping: 0.048300 ms MarkObjects: 2.700500 ms  DeleteObjects: 0.013900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 28.236234 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/InteractiveDemo/Demo Scenes/scifi_shields.unity
+  artifactKey: Guid(40ee0cb037f6c9f478e2ce8c18d8d820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/InteractiveDemo/Demo Scenes/scifi_shields.unity using Guid(40ee0cb037f6c9f478e2ce8c18d8d820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5db1e3590ad8360074bd62974a6003e2') in 0.017986 seconds 
+  Import took 0.021014 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004023 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.967 seconds
+Domain Reload Profiling:
+	ReloadAssembly (967ms)
+		BeginReloadAssembly (111ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (789ms)
+			LoadAssemblies (83ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (256ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (44ms)
+			SetupLoadedEditorAssemblies (310ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (80ms)
+				ProcessInitializeOnLoadAttributes (211ms)
+				ProcessInitializeOnLoadMethodAttributes (3ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1774 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.5 MB.
+System memory in use after: 186.6 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2284.
+Total: 3.028700 ms (FindLiveObjects: 0.182500 ms CreateObjectMapping: 0.061600 ms MarkObjects: 2.769700 ms  DeleteObjects: 0.013800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 21.128669 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fb2a8de2a66a6a26a3f365bf3d13372') in 0.018877 seconds 
+  Import took 0.021807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.765377 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects
+  artifactKey: Guid(b843c1cf733987241aea3fde4df09d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects using Guid(b843c1cf733987241aea3fde4df09d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a05ba0ba4e5b7176b2b3e76e65628240') in 0.008205 seconds 
+  Import took 0.012564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.633156 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs
+  artifactKey: Guid(51f1846e109942240925df2a5e20ef99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs using Guid(51f1846e109942240925df2a5e20ef99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d275f5104bf248dc8a901b154b5393b') in 0.004978 seconds 
+  Import took 0.008027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.849125 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound
+  artifactKey: Guid(d9d744997e8c4604a849b45a6ac1d88b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound using Guid(d9d744997e8c4604a849b45a6ac1d88b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93da773879af7833df1b62b5d0777f4d') in 0.006492 seconds 
+  Import took 0.010185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.929975 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact
+  artifactKey: Guid(eb6044e3c9155594084836e6abfc2bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact using Guid(eb6044e3c9155594084836e6abfc2bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4e1e5e568feae9a773ee4678771c3da') in 0.006511 seconds 
+  Import took 0.009555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.056009 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_energy.wav
+  artifactKey: Guid(b5450f65d1e443840a4388b7e2da2ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_energy.wav using Guid(b5450f65d1e443840a4388b7e2da2ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1cb921e809e7b0ab857d3f6875073b2') in 0.078758 seconds 
+  Import took 0.081605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_fire2.wav
+  artifactKey: Guid(70439acf07505b04f9495729bcd8a678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_fire2.wav using Guid(70439acf07505b04f9495729bcd8a678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f74a7b367d2319a1fae67da3b177751') in 0.010916 seconds 
+  Import took 0.013903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_lightning.wav
+  artifactKey: Guid(b79a9192dbd588c4abc9c7a8093c6540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_lightning.wav using Guid(b79a9192dbd588c4abc9c7a8093c6540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77a09ee7595f6c2553655a5963ea04dc') in 0.012152 seconds 
+  Import took 0.015028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/shoot_fireball.wav
+  artifactKey: Guid(3b5439631b4cc8b4b81da47b6d89e0bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/shoot_fireball.wav using Guid(3b5439631b4cc8b4b81da47b6d89e0bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbbec11cd167badfe325f45447ed2c47') in 0.025943 seconds 
+  Import took 0.028767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_laser3.wav
+  artifactKey: Guid(d997f4c23427a1a4894a8485df3662b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_laser3.wav using Guid(d997f4c23427a1a4894a8485df3662b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ccc131ce088eff29d3d4a9a6fd0a9ea') in 0.011014 seconds 
+  Import took 0.013698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_energy2.wav
+  artifactKey: Guid(cd89ba210211a174599d6885afc78a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_energy2.wav using Guid(cd89ba210211a174599d6885afc78a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39527aee9036450974b93c06016994a5') in 0.030844 seconds 
+  Import took 0.033548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_liquid.wav
+  artifactKey: Guid(3c9268f0b913a8e4f8f4320b83103881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_liquid.wav using Guid(3c9268f0b913a8e4f8f4320b83103881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30ecd344c4566037c422ce84a787e41d') in 0.013782 seconds 
+  Import took 0.016531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_rocket3.wav
+  artifactKey: Guid(8e9fd8d802b2ef144a125970278e3b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_rocket3.wav using Guid(8e9fd8d802b2ef144a125970278e3b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f0cdd9affd02043ea88031479779bf4') in 0.011907 seconds 
+  Import took 0.014478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_laser4.wav
+  artifactKey: Guid(51d2bef9fdd79ba4faff6850d5697620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_laser4.wav using Guid(51d2bef9fdd79ba4faff6850d5697620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23622dd503cde4b03e2880ddd56ff8ee') in 0.014835 seconds 
+  Import took 0.017390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_rocket.wav
+  artifactKey: Guid(fdc616161abe92e4f911164effc34bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_rocket.wav using Guid(fdc616161abe92e4f911164effc34bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef50b889b13f73a075eecdb3e5cf3355') in 0.011822 seconds 
+  Import took 0.014855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/shoot_rocket.wav
+  artifactKey: Guid(abbc1f9d8ce79fe4ba110c6bce294c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/shoot_rocket.wav using Guid(abbc1f9d8ce79fe4ba110c6bce294c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf67d3b569fa0038a4dd97f614d154c3') in 0.015099 seconds 
+  Import took 0.017907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_fire.wav
+  artifactKey: Guid(e9c249c9d073d2647b12578e32521b62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_fire.wav using Guid(e9c249c9d073d2647b12578e32521b62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '797cf9235203a682a4391142621aa94c') in 0.029728 seconds 
+  Import took 0.032471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_rocket2.wav
+  artifactKey: Guid(5c0bc45853f19bd449457546162dd290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_rocket2.wav using Guid(5c0bc45853f19bd449457546162dd290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad4e789a2cc98026e6d157925d7cfaed') in 0.012284 seconds 
+  Import took 0.014859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_rift.wav
+  artifactKey: Guid(0547646b811422d41bea28e4eb009d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_rift.wav using Guid(0547646b811422d41bea28e4eb009d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68b5e80a4b8c649f698c2fc8fdf91abf') in 0.017585 seconds 
+  Import took 0.020198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/shoot_laser.wav
+  artifactKey: Guid(723191daa845c6f4fa0979dbba60cfc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/shoot_laser.wav using Guid(723191daa845c6f4fa0979dbba60cfc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c383bb154d8cbb4c55ddee3b0736deea') in 0.010109 seconds 
+  Import took 0.012733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/shoot_rift.wav
+  artifactKey: Guid(3b66bf77d65ed7547b645ffa0ab098d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/shoot_rift.wav using Guid(3b66bf77d65ed7547b645ffa0ab098d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe667dacb9a445735f6b38ad0e8a1375') in 0.015733 seconds 
+  Import took 0.018280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/shoot_sphere.wav
+  artifactKey: Guid(ebc1c0d823230c642a5e7e67bcbd9a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/shoot_sphere.wav using Guid(ebc1c0d823230c642a5e7e67bcbd9a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e309e57aa4dbe61162d31bbfc0453cbc') in 0.012840 seconds 
+  Import took 0.015524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/shoot_liquid.wav
+  artifactKey: Guid(66de08431620ea446992f4934f9dfef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/shoot_liquid.wav using Guid(66de08431620ea446992f4934f9dfef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '588ef473d6c5c035aebe2b40ad34a4d8') in 0.013640 seconds 
+  Import took 0.017100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_laser2.wav
+  artifactKey: Guid(15900e8f0931e2e418d0136e7533f198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_laser2.wav using Guid(15900e8f0931e2e418d0136e7533f198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be051a19ed9b4be3bf7ce84ea086296e') in 0.010771 seconds 
+  Import took 0.013720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/shoot_laser_strong.wav
+  artifactKey: Guid(34585bdbdcd7aef4597605fb8b3e711f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/shoot_laser_strong.wav using Guid(34585bdbdcd7aef4597605fb8b3e711f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fedad5831b1a796b931a1cb2b914d3a3') in 0.010930 seconds 
+  Import took 0.014019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_laser.wav
+  artifactKey: Guid(d4e037ed0057f1b4bb2fd6d35c412b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_laser.wav using Guid(d4e037ed0057f1b4bb2fd6d35c412b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50e750232990da59ed7c6530e29a42aa') in 0.013010 seconds 
+  Import took 0.016036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/shoot_laser2.wav
+  artifactKey: Guid(7e18422aba72d4345af127e11a2385c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/shoot_laser2.wav using Guid(7e18422aba72d4345af127e11a2385c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb1171a2e51aa7088ae8f9f31da21537') in 0.011377 seconds 
+  Import took 0.014503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/shoot_laser_small.wav
+  artifactKey: Guid(7feb294aa3971eb4f9dcf6f35c6e2727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/shoot_laser_small.wav using Guid(7feb294aa3971eb4f9dcf6f35c6e2727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd90101ad99b5cf5a4f78ed625f7e006') in 0.011188 seconds 
+  Import took 0.014296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/shoot_laser3.wav
+  artifactKey: Guid(0155bcaefb385764299abfc5b1146e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/shoot_laser3.wav using Guid(0155bcaefb385764299abfc5b1146e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ec6fac3abee1aef4bdb1a19e9f07a69') in 0.012219 seconds 
+  Import took 0.015466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/shoot_energy.wav
+  artifactKey: Guid(c058beb22e1ce5242a1ff6b594759835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/shoot_energy.wav using Guid(c058beb22e1ce5242a1ff6b594759835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c44156bd671f0c2bb21a31bf573470a0') in 0.012636 seconds 
+  Import took 0.015925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_lightning2.wav
+  artifactKey: Guid(d7bc400deebd8824f8e9b94155875079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/explosion_lightning2.wav using Guid(d7bc400deebd8824f8e9b94155875079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4910a1fb47470dee30cde189d174afed') in 0.011591 seconds 
+  Import took 0.015754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/shoot_lightning.wav
+  artifactKey: Guid(71d6f3bc02d3d1f4e9fce7ddfd197abc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/shoot_lightning.wav using Guid(71d6f3bc02d3d1f4e9fce7ddfd197abc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a85892976e8c523c9bc7467ec464b5cd') in 0.012705 seconds 
+  Import took 0.016340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/shoot_pulsegun.wav
+  artifactKey: Guid(15ec042c5330b894397fe2b560e22a98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/shoot_pulsegun.wav using Guid(15ec042c5330b894397fe2b560e22a98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0642f2d2bbac849afdd81aaf49e9bf2f') in 0.011841 seconds 
+  Import took 0.015192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/shoot_energy2.wav
+  artifactKey: Guid(66362109d38707e41966aad33585e4bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Impact/shoot_energy2.wav using Guid(66362109d38707e41966aad33585e4bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0267427551f20f6f6952d45e654f13f8') in 0.012097 seconds 
+  Import took 0.015962 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004570 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.561 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1562ms)
+		BeginReloadAssembly (190ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (52ms)
+		EndReloadAssembly (1263ms)
+			LoadAssemblies (161ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (467ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (86ms)
+			SetupLoadedEditorAssemblies (429ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (114ms)
+				ProcessInitializeOnLoadAttributes (287ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1774 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.6 MB.
+System memory in use after: 186.8 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2289.
+Total: 4.979300 ms (FindLiveObjects: 0.441000 ms CreateObjectMapping: 0.236400 ms MarkObjects: 4.273800 ms  DeleteObjects: 0.025800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003656 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.051 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1051ms)
+		BeginReloadAssembly (130ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (858ms)
+			LoadAssemblies (91ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (302ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (311ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (81ms)
+				ProcessInitializeOnLoadAttributes (211ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1774 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.6 MB.
+System memory in use after: 186.8 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2291.
+Total: 2.726000 ms (FindLiveObjects: 0.154000 ms CreateObjectMapping: 0.060600 ms MarkObjects: 2.495400 ms  DeleteObjects: 0.015300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004297 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.010 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1011ms)
+		BeginReloadAssembly (109ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (843ms)
+			LoadAssemblies (81ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (268ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (345ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (90ms)
+				ProcessInitializeOnLoadAttributes (235ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1774 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.7 MB.
+System memory in use after: 186.8 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2293.
+Total: 2.825000 ms (FindLiveObjects: 0.167100 ms CreateObjectMapping: 0.048500 ms MarkObjects: 2.594300 ms  DeleteObjects: 0.014000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003877 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.979 seconds
+Domain Reload Profiling:
+	ReloadAssembly (979ms)
+		BeginReloadAssembly (110ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (806ms)
+			LoadAssemblies (81ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (260ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (322ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (80ms)
+				ProcessInitializeOnLoadAttributes (224ms)
+				ProcessInitializeOnLoadMethodAttributes (3ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1774 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.7 MB.
+System memory in use after: 186.8 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2295.
+Total: 2.868300 ms (FindLiveObjects: 0.176600 ms CreateObjectMapping: 0.058400 ms MarkObjects: 2.603500 ms  DeleteObjects: 0.014000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003736 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.098 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1098ms)
+		BeginReloadAssembly (139ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (35ms)
+		EndReloadAssembly (886ms)
+			LoadAssemblies (98ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (297ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (330ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (87ms)
+				ProcessInitializeOnLoadAttributes (221ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1774 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.7 MB.
+System memory in use after: 186.8 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2297.
+Total: 3.068700 ms (FindLiveObjects: 0.171400 ms CreateObjectMapping: 0.047500 ms MarkObjects: 2.834700 ms  DeleteObjects: 0.014400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003706 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.946 seconds
+Domain Reload Profiling:
+	ReloadAssembly (946ms)
+		BeginReloadAssembly (115ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (769ms)
+			LoadAssemblies (87ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (242ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (300ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (80ms)
+				ProcessInitializeOnLoadAttributes (202ms)
+				ProcessInitializeOnLoadMethodAttributes (3ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1774 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.7 MB.
+System memory in use after: 186.8 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2299.
+Total: 3.503200 ms (FindLiveObjects: 0.191600 ms CreateObjectMapping: 0.075000 ms MarkObjects: 3.218600 ms  DeleteObjects: 0.017000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003447 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.969 seconds
+Domain Reload Profiling:
+	ReloadAssembly (970ms)
+		BeginReloadAssembly (109ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (793ms)
+			LoadAssemblies (79ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (265ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (314ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (79ms)
+				ProcessInitializeOnLoadAttributes (217ms)
+				ProcessInitializeOnLoadMethodAttributes (3ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1774 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.7 MB.
+System memory in use after: 186.8 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2301.
+Total: 2.878000 ms (FindLiveObjects: 0.172300 ms CreateObjectMapping: 0.052200 ms MarkObjects: 2.634000 ms  DeleteObjects: 0.018500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 910.356641 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Loops/loop_energy.wav
+  artifactKey: Guid(3e3ea9e0f37802b488b934858afae7af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Loops/loop_energy.wav using Guid(3e3ea9e0f37802b488b934858afae7af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd872fc67d66908bdbed7be522b4b9bdc') in 0.087211 seconds 
+  Import took 0.091257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Loops/loop_laser2.wav
+  artifactKey: Guid(b3dab173fc572fe4a96d89ab1aef5928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Loops/loop_laser2.wav using Guid(b3dab173fc572fe4a96d89ab1aef5928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c60f566c84282dc54cc9ac9ac2bd9c1c') in 0.033922 seconds 
+  Import took 0.036785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Loops/loop_laser.wav
+  artifactKey: Guid(a92769c57c0962f4cb9e8f92c0b66454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Loops/loop_laser.wav using Guid(a92769c57c0962f4cb9e8f92c0b66454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a76d2d81d6205bc16484ddb9d9998036') in 0.011590 seconds 
+  Import took 0.014813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Loops/loop_lightning.wav
+  artifactKey: Guid(2c4cdfc0dc510eb458bdf9b7d15a4b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Loops/loop_lightning.wav using Guid(2c4cdfc0dc510eb458bdf9b7d15a4b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd13cd70eec65815fde156307bfeac603') in 0.015482 seconds 
+  Import took 0.018409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Loops/loop_rocket2.wav
+  artifactKey: Guid(3dfe34e3f915bfa4495a5e9c0b8d04e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Loops/loop_rocket2.wav using Guid(3dfe34e3f915bfa4495a5e9c0b8d04e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '673140583188c31d0e26412ad20969ca') in 0.011450 seconds 
+  Import took 0.014552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Loops/loop_rocket.wav
+  artifactKey: Guid(3289e396b6a53aa49a8e4f2b489d3e22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Loops/loop_rocket.wav using Guid(3289e396b6a53aa49a8e4f2b489d3e22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf292f5c64bf0a5783a277d4a67665bc') in 0.031045 seconds 
+  Import took 0.033870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Loops/loop_fire.wav
+  artifactKey: Guid(19cd338e998b409429de6510e972cef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Loops/loop_fire.wav using Guid(19cd338e998b409429de6510e972cef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc79b4e2920aa515b02e4951a482b48a') in 0.018410 seconds 
+  Import took 0.021020 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004397 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.069 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1069ms)
+		BeginReloadAssembly (127ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (31ms)
+		EndReloadAssembly (870ms)
+			LoadAssemblies (87ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (275ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (348ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (96ms)
+				ProcessInitializeOnLoadAttributes (230ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1774 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.7 MB.
+System memory in use after: 186.8 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2304.
+Total: 3.131700 ms (FindLiveObjects: 0.168500 ms CreateObjectMapping: 0.050000 ms MarkObjects: 2.895400 ms  DeleteObjects: 0.016500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 95.725645 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Loops
+  artifactKey: Guid(99212953a6d929a4199d1c9fe10d3138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Sound/Loops using Guid(99212953a6d929a4199d1c9fe10d3138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2b437fbbf5e35c0ccf4dc476055125e') in 0.008855 seconds 
+  Import took 0.012201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.315743 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat
+  artifactKey: Guid(322818520f255394cad8721fe48ec016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat using Guid(322818520f255394cad8721fe48ec016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a3c8546386300cc5f50a8a3b025a879') in 0.006221 seconds 
+  Import took 0.008998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.774863 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Aura
+  artifactKey: Guid(fe905284385bf254eab41dec2c21a7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Aura using Guid(fe905284385bf254eab41dec2c21a7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a87da983237cb19cd4c3cb8f43fca453') in 0.005755 seconds 
+  Import took 0.008929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.882692 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Aura/Swirly
+  artifactKey: Guid(4ee930332d7be2646823dd51327bfcd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Aura/Swirly using Guid(4ee930332d7be2646823dd51327bfcd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7f57a09813224800a4059f7b91acdf1') in 0.005606 seconds 
+  Import took 0.008748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034565 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Aura/Swirly/BlueSwirlyAura.prefab
+  artifactKey: Guid(cc028665d31776846b03ec45e19339b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Aura/Swirly/BlueSwirlyAura.prefab using Guid(cc028665d31776846b03ec45e19339b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1347703180554e5ed6129dfc4e23bce8') in 0.065508 seconds 
+  Import took 0.068790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Aura/Swirly/ModularSwirlyAura.prefab
+  artifactKey: Guid(982d6dc9a579877478af73641bd15e36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Aura/Swirly/ModularSwirlyAura.prefab using Guid(982d6dc9a579877478af73641bd15e36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbdcdfd85d3c20a7861cfbf74195ff93') in 0.015478 seconds 
+  Import took 0.018377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Aura/Swirly/RedSwirlyAura.prefab
+  artifactKey: Guid(0d780f43c8ec67948a83ab8ca1939325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Aura/Swirly/RedSwirlyAura.prefab using Guid(0d780f43c8ec67948a83ab8ca1939325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e322e91a3b2607923ee679c22b1db74e') in 0.013892 seconds 
+  Import took 0.017043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Aura/Swirly/GreenSwirlyAura.prefab
+  artifactKey: Guid(e1b1f0ede5a44aa4f964e6cabe2a3f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Aura/Swirly/GreenSwirlyAura.prefab using Guid(e1b1f0ede5a44aa4f964e6cabe2a3f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbc5c024997e9d0a0151dcb4c7be40c8') in 0.017456 seconds 
+  Import took 0.020804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Aura/Swirly/YellowSwirlyAura.prefab
+  artifactKey: Guid(41d465be26c5aaa40bebb821e450d287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Aura/Swirly/YellowSwirlyAura.prefab using Guid(41d465be26c5aaa40bebb821e450d287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a2a036f6a4c03e5d45b8631027e98b9') in 0.015629 seconds 
+  Import took 0.019102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Aura/Swirly/PurpleSwirlyAura.prefab
+  artifactKey: Guid(a1cb3a9a6f428974b92c517bad51f2af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Aura/Swirly/PurpleSwirlyAura.prefab using Guid(a1cb3a9a6f428974b92c517bad51f2af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79ccc56bae2ac69f4c3ed860b819ea8d') in 0.017103 seconds 
+  Import took 0.021333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.372508 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/InteractiveDemo/Demo Scenes/scifi_regenerate.unity
+  artifactKey: Guid(e2232645df341314b84c9c94b8e35141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/InteractiveDemo/Demo Scenes/scifi_regenerate.unity using Guid(e2232645df341314b84c9c94b8e35141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3025a95bdad0876e5ff2ada0ad0e6b08') in 0.007275 seconds 
+  Import took 0.010147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.759033 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Glow/glow_smoke_dusty.mat
+  artifactKey: Guid(c89ba8ee725ace445b48f25f5531b730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Glow/glow_smoke_dusty.mat using Guid(c89ba8ee725ace445b48f25f5531b730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '361138d22008c4847f3bcdaf948b7985') in 0.035279 seconds 
+  Import took 0.038550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.499335 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5ea83cbe12fc4cea318460a2304e5c5') in 0.003069 seconds 
+  Import took 0.006632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 73.920389 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/BigGlow/bigglow_green.mat
+  artifactKey: Guid(33d8a49b518af55479672acdc3502589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/BigGlow/bigglow_green.mat using Guid(33d8a49b518af55479672acdc3502589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bcc95290eeeea65668704d7e1106c92') in 0.013508 seconds 
+  Import took 0.016455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.197402 seconds.
+  path: Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Misc/symbols.mat
+  artifactKey: Guid(566c8b2582723f046a7763597111cf1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Archanor/Sci-Fi Arsenal/Sci-Fi Effects/Materials/Misc/symbols.mat using Guid(566c8b2582723f046a7763597111cf1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfe1ecc2f0da7ee581e6ee3c359ec7a9') in 0.012300 seconds 
+  Import took 0.015255 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003809 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.005 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1006ms)
+		BeginReloadAssembly (117ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (31ms)
+		EndReloadAssembly (821ms)
+			LoadAssemblies (89ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (282ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (46ms)
+			SetupLoadedEditorAssemblies (303ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (81ms)
+				ProcessInitializeOnLoadAttributes (203ms)
+				ProcessInitializeOnLoadMethodAttributes (3ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1774 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.9 MB.
+System memory in use after: 187.1 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2340.
+Total: 3.014200 ms (FindLiveObjects: 0.176800 ms CreateObjectMapping: 0.047900 ms MarkObjects: 2.773900 ms  DeleteObjects: 0.014600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004094 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.125 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1125ms)
+		BeginReloadAssembly (127ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (928ms)
+			LoadAssemblies (96ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (320ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (353ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (99ms)
+				ProcessInitializeOnLoadAttributes (234ms)
+				ProcessInitializeOnLoadMethodAttributes (3ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1774 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.9 MB.
+System memory in use after: 187.1 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2342.
+Total: 2.898200 ms (FindLiveObjects: 0.171700 ms CreateObjectMapping: 0.061100 ms MarkObjects: 2.648800 ms  DeleteObjects: 0.015700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003925 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.035 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1036ms)
+		BeginReloadAssembly (116ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (852ms)
+			LoadAssemblies (85ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (269ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (351ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (96ms)
+				ProcessInitializeOnLoadAttributes (234ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1774 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.9 MB.
+System memory in use after: 187.1 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2344.
+Total: 3.085100 ms (FindLiveObjects: 0.193100 ms CreateObjectMapping: 0.055200 ms MarkObjects: 2.821100 ms  DeleteObjects: 0.014500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003780 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.064 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1065ms)
+		BeginReloadAssembly (123ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (37ms)
+		EndReloadAssembly (876ms)
+			LoadAssemblies (89ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (288ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (47ms)
+			SetupLoadedEditorAssemblies (341ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (94ms)
+				ProcessInitializeOnLoadAttributes (230ms)
+				ProcessInitializeOnLoadMethodAttributes (3ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1774 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.0 MB.
+System memory in use after: 187.1 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2346.
+Total: 3.239000 ms (FindLiveObjects: 0.174000 ms CreateObjectMapping: 0.062000 ms MarkObjects: 2.985100 ms  DeleteObjects: 0.017100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003024 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.146 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1146ms)
+		BeginReloadAssembly (122ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (944ms)
+			LoadAssemblies (90ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (322ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (54ms)
+			SetupLoadedEditorAssemblies (360ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (96ms)
+				ProcessInitializeOnLoadAttributes (244ms)
+				ProcessInitializeOnLoadMethodAttributes (3ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1774 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.0 MB.
+System memory in use after: 187.1 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2348.
+Total: 3.248400 ms (FindLiveObjects: 0.184600 ms CreateObjectMapping: 0.067200 ms MarkObjects: 2.976400 ms  DeleteObjects: 0.018600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004255 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.156 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1156ms)
+		BeginReloadAssembly (132ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (946ms)
+			LoadAssemblies (92ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (312ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (55ms)
+			SetupLoadedEditorAssemblies (364ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (91ms)
+				ProcessInitializeOnLoadAttributes (251ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1774 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.0 MB.
+System memory in use after: 187.1 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2350.
+Total: 3.125100 ms (FindLiveObjects: 0.179300 ms CreateObjectMapping: 0.055900 ms MarkObjects: 2.870800 ms  DeleteObjects: 0.017800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
