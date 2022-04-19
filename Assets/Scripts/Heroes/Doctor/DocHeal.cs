@@ -13,7 +13,7 @@ public class DocHeal : MonoBehaviour
 
     public float healCooldown = 8f;
 
-    public ParticleSystem healEffect;
+    // public ParticleSystem healEffect;
 
     public float healThickness = 2f;
 
@@ -71,10 +71,11 @@ public class DocHeal : MonoBehaviour
             {
                 ally.currentHealth += healAmount;
                 NanoHealthCooldown();
+                ally.docHeal.Play();
                 healed = true;
             }
 
-            healEffect.Play();
+            
 
         }
     }

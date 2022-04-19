@@ -10,6 +10,10 @@ public class Ally : MonoBehaviour
 
     public HealthBarScript healthBar;
 
+    public ParticleSystem docHeal;
+
+    private bool healedByDoc = false;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -26,6 +30,8 @@ public class Ally : MonoBehaviour
         }
 
         healthBar.SetHealth(currentHealth);
+
+
     }
 
     void TakeDamage(int damage)
@@ -36,5 +42,6 @@ public class Ally : MonoBehaviour
 
 
     }
+
     
 }
