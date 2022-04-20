@@ -39,11 +39,11 @@ public class DocHeal : MonoBehaviour
         NanoHealthCooldown();
         if (Input.GetKeyDown(KeyCode.E))
         {
-            if (currentHealCooldown == 8) 
+            if (currentHealCooldown == healCooldown) 
             {
                 Heal();
             }
-            else if (currentHealCooldown != 8) //Wont activate since cooldown timer is not 8 
+            else if (currentHealCooldown != healCooldown) //Wont activate since cooldown timer is not 8 
             {
                 Debug.Log("Cannot heal. Ability on cooldown");
             }

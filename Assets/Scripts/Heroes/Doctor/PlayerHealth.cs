@@ -34,6 +34,7 @@ public class PlayerHealth : MonoBehaviour
         Debug.Log(currentHealth);
 
         hpText.text = currentHealth.ToString("0");
+
     }
 
     void TakeDamage(int damage)
