@@ -35,6 +35,11 @@ public class PlayerHealth : MonoBehaviour
 
         hpText.text = currentHealth.ToString("0");
 
+        if (currentHealth > maxHealth) // Keeps health from going above max
+        {
+            currentHealth = maxHealth;
+        } 
+
     }
 
     void TakeDamage(int damage)
@@ -42,8 +47,7 @@ public class PlayerHealth : MonoBehaviour
         currentHealth -= damage;
 
         healthBar.SetHealth(currentHealth);
-
-        
+                
     }
 
     
